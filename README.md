@@ -31,4 +31,7 @@
 if __name__=='__main__':
 
     unittest.main()
-    abc()
+    
+<h3>Output :</h3>
+
+<img src="D:\Projects\unit_testing\Projects.PNG">
