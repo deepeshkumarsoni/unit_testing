@@ -34,5 +34,4 @@ if __name__=='__main__':
     
 <h3>Output :</h3>
 
-
- D:\Projects\unit_testing\Projects.PNG
+<img src="Projects.PNG">
