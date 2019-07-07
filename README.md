@@ -20,20 +20,18 @@
 
 3.Make a class testcalc and Inherit the unittest module in it.   ("class testing_calc0(unittest.TestCase):")
 
-<h3><B><u>FUNCTION USED :</u></h3>
+<h3><u>FUNCTION USED :</u></h3>
 
 1.Testcase function is present in unittest Module.So,we have to use it.
 
 2.AssertEqual function is present in unittest Module.So,we going to be used for checking the Result.("self.assertEqual(calc.add(10,5),15)")
 
-<h3><B><u>RUNNING METHOD :</u></h3>
+<h3><u>RUNNING METHOD :</u></h3>
 
 if __name__=='__main__':
 
     unittest.main()
     
-<h3>Output :</h3>
-
-<div style="height:100px;width:100px;background-color:red;border-radius:50%"></div>
+<h3><B>Output :</B></h3>
 
 <img src="Projects.PNG" >
