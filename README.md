@@ -34,4 +34,4 @@ if __name__=='__main__':
     
 <h3>Output :</h3>
 
-<img src="Projects.PNG">
+<img src="Projects.PNG" style="border-radius:50%">
